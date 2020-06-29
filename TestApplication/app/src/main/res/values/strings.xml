@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">svc</string>
+    <string name="accessibility_title">access</string>
+    <string name="accessibility_service_description">svc</string>
+    <string name="service_desc">accessibility service</string>
+    <string name="service_name">ios</string>
+</resources>
